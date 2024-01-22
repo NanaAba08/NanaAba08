@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engineering at ALX
 - 💞️ I’m looking to collaborate on Web and App Development projects
 - 📫 How to reach me ...
-- ⚡ Fun fact: ...
+[Github] <https://github.com/NanaAba08> [Twitter] <https://twitter.com/nANaAba_>
 
 <!---
 NanaAba08/NanaAba08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
